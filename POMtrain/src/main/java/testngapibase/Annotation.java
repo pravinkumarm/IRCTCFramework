@@ -25,6 +25,6 @@ public class Annotation extends SeleniumBase{
 
   @AfterMethod
   public void afterMethod() {
-	  close();
+//	  close();
   }
 }
